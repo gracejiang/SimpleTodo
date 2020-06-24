@@ -39,7 +39,7 @@ And an extra one to show data persistance:
 
 **Challenges**
 
-It was difficult passing data through intents. I'm still learning about how the key/value pairs work between two different intents.
+Learning to pass data through different intents was confusing. I'm still learning about how the key/value pairs work between two different intents.
 
 **Misc**
 
