@@ -39,11 +39,11 @@ And an extra one to show data persistance:
 
 **Challenges**
 
-It was difficult passing data through intents; I'm still trying to fully understand passing in Keys + Values from one intent to another
+It was difficult passing data through intents. I'm still learning about how the key/value pairs work between two different intents.
 
 **Misc**
 
-It was reallly cool seeing my code actually working on the Android simulator!
+It was reallly cool seeing my code actually running on the Android simulator!
 
 **Concepts Learned/Used**
 * MVC Lifecycle
