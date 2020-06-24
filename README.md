@@ -31,9 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-And an extra one to show data persistance:
-<img src='data-persistance.gif' title='Data Persistance Walkthrough' width='' alt='Data Persistance Walkthrough' />
-
 
 ## Notes
 
