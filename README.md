@@ -31,13 +31,18 @@ Here's a walkthrough of implemented user stories:
 
 <img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+And an extra one to show data persistance:
+<img src='data-persistance.gif' title='Data Persistance Walkthrough' width='' alt='Data Persistance Walkthrough' />
+
 
 ## Notes
 
 **Challenges**
+
 It was difficult passing data through intents; I'm still trying to fully understand passing in Keys + Values from one intent to another
 
 **Misc**
+
 It was reallly cool seeing my code actually working on the Android simulator!
 
 **Concepts Learned/Used**
